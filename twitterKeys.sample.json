@@ -1,0 +1,10 @@
+{
+	"consumer_key" : "XX",
+	"consumer_secret" : "XX",
+	"access_token" : "XX",
+	"access_secret" : "XX",
+	
+	"api_key" : "XX",
+	"api_key_secret" : "XX",
+	"bearer_token" : "XX"
+}

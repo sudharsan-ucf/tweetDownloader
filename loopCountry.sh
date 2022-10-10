@@ -1,0 +1,1 @@
+while true; do python downloadTweets.py twitterKeys.json; sleep 1; done
