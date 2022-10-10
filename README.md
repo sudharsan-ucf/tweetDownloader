@@ -1,5 +1,14 @@
 # Repository to download tweets using Twitter API v2
 
+## Dependencies
+1. python 3.10.6
+2. tweepy 4.10.1
+3. python-wget 3.2
+
+Install using `pip` or `conda` as needed.
+
+## Usage
+
 Create a file named `twitterKeys.json` following a pattern similar to `twitterKeys.sample.json`.
 Run `python downloadTweets.py` to download tweets.
 
